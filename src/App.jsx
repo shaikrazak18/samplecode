@@ -15,6 +15,7 @@ function App() {
             <li><a href="#" className="hover:text-teal-400 transition">About</a></li>
             <li><a href="#" className="hover:text-teal-400 transition">Contact</a></li>
           </ul>
+          
         </nav>
       </header>
 
